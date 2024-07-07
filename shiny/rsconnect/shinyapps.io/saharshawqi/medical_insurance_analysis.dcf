@@ -1,0 +1,12 @@
+name: medical_insurance_analysis
+title: medical_insurance_analysis
+username: saharshawqi
+account: saharshawqi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12188181
+bundleId: 8747227
+url: https://saharshawqi.shinyapps.io/medical_insurance_analysis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
